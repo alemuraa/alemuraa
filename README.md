@@ -10,4 +10,5 @@ I'm **Alessio Mura**, a **Robotics Engineering student** with a strong passion f
 - **Planning Tools:** PDDL 🗺️
 - **Operating Systems:** Linux, Windows, WSL 🖧
 
-I'm excited to tackle new challenges and contribute to projects that push the boundaries of technology and innovation. Feel free to contact me for any opportunities or collaborations!
+I'm excited to tackle new challenges and contribute to projects that push the boundaries of technology and innovation. 
+Feel free to contact me for any opportunities or collaborations!
