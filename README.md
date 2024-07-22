@@ -1,6 +1,6 @@
 # Hello! 👋
 
-I'm **Alessio Mura**, a Robotics Engineering student with a strong passion for the world of computing and robotics 🤖. I decided to focus my studies on a computing-oriented approach, exploring various areas of robotics. I've discovered a particular affinity for **autonomous navigation** and a great interest in the **space sector** 🌌.
+I'm **Alessio Mura**, a **Robotics Engineering student** with a strong passion for the world of computing and robotics 🤖. I decided to focus my studies on a computing-oriented approach, exploring various areas of robotics. I've discovered a particular affinity for **autonomous navigation** and a great interest in the **space sector** 🌌.
 
 ## Technical Skills 💻
 
